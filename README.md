@@ -23,3 +23,15 @@ Or color coded
 ```js
 alert('Yay!')
 ```
+
+```
+def method(arg)
+  some_code = SomeCode.new
+end
+```
+
+```ruby
+def method(arg)
+  some_code = SomeCode.new
+end
+```
